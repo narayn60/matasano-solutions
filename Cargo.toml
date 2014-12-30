@@ -1,0 +1,9 @@
+[package]
+
+name = "Set1"
+version = "0.0.1"
+authors = [ "Andrew Stuart <narayn60@gmail.com>" ]
+
+[[bin]]
+
+name = "Set1"
